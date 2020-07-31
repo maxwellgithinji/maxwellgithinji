@@ -27,6 +27,9 @@ I am a software developer and my main stacks include:
  - Building faster microservices with HTTP2, gRPC and go => 5%
  - Dloyment with containers and container orchestration with Kubernetes => 20%
  
+ ### Stats
+ 
+ ![Maxwell Githinji Github Stats](https://github-readme-stats.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
 
 
 <!--
