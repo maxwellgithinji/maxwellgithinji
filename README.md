@@ -24,7 +24,7 @@ I am a software developer and my main stacks include:
 ### 🌱 I’m currently learning
 
  - Golang Web architecture => 80%
- - Building faster microservices with HTTP2, gRPC and go => 5%
+ - Building faster microservices with HTTP2, gRPC and go => 30%
  - Dloyment with containers and container orchestration with Kubernetes => 20%
  
  ### Stats
