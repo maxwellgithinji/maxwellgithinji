@@ -2,7 +2,6 @@
 
 <p align='center'>
 <a href="https://dev.to/maxwellgithinji"><img height="30" src="https://user-images.githubusercontent.com/11288990/89025817-27551600-d330-11ea-95a6-1357b3407f9f.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/bitz117"><img height="30" src="https://user-images.githubusercontent.com/11288990/89025732-0e4c6500-d330-11ea-8678-43df252f7c65.jpeg"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@githinjimaxwell"><img height="30" src="https://user-images.githubusercontent.com/11288990/89025701-01c80c80-d330-11ea-8084-b766e755f904.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maxwell-githinji-681827114/"><img height="30" src="https://user-images.githubusercontent.com/11288990/89025717-08ef1a80-d330-11ea-90a1-83f2c56b618e.png"></a>
 </p>
