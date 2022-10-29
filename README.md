@@ -16,7 +16,7 @@ I am a software developer and my main stacks include:
 
 ### 🌱 I’m currently learning
 
- - Compiler Construction => 20%
+ - Compiler Construction
  
  ### Stats
  
