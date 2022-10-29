@@ -9,24 +9,14 @@
 ### Hi there 👋
 
 I am a software developer and my main stacks include:
+- Golang
+- Python
 - Javascript (Node.JS, React.JS, Vanilla.JS)
 - Ruby (Rails)
-- Golang
-
-### 🔭 I’m currently working on
-
-- Building simple APIs with Golang
-  - working progress 
-    - [Farmsale](https://farmsaledev.herokuapp.com/swagger/index.html), [REPO](https://github.com/maxwellgithinji/farmsale_backend)
-- Building Microservices with Golang and grpc
-  - working progress
-    -  [REPO](https://github.com/maxwellgithinji/shipping)
 
 ### 🌱 I’m currently learning
 
- - Golang Web architecture => 80%
- - Building faster microservices with HTTP2, gRPC and go => 30%
- - Dloyment with containers and container orchestration with Kubernetes => 20%
+ - Compiler Construction => 20%
  
  ### Stats
  
