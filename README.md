@@ -10,10 +10,6 @@
 
 I am a software developer and my main stacks include:
 ![language stats](https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/5df442fe-8c21-42bc-b73c-ccbbb061ab9d.svg)
-<iframe
-  src="https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/5df442fe-8c21-42bc-b73c-ccbbb061ab9d.svg"
-  style="width:100%; height:300px;"
-></iframe>
 
 ### 🌱 I’m currently learning
 
