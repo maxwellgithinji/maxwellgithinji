@@ -9,14 +9,24 @@
 ### Hi there 👋
 
 I am a software developer and my main stacks include:
+
+[![Top Langs](https://github-stats-seven-tawny.vercel.app/api/top-langs/?username=maxwellgithinji)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🔭 I’m currently working on
+
 ![language stats](https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/5df442fe-8c21-42bc-b73c-ccbbb061ab9d.svg)
 
 ### 🌱 I’m currently learning
 
- - Compiler Construction
+ - Java
  
  ### Stats
-  ![Maxwell Githinji Github Stats](https://github-stats-seven-tawny.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
+ 
+![Maxwell Githinji Github Stats](https://github-stats-seven-tawny.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
+
+![Maxwell Githinji Github Stats](https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/8dcccd8d-719f-4d0e-8fa9-f7886db15cb1.svg)
+ 
 
 <!--
 **maxwellgithinji/maxwellgithinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
