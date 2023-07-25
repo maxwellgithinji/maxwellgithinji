@@ -16,9 +16,7 @@ I am a software developer and my main stacks include:
  - Compiler Construction
  
  ### Stats
- 
- ![Maxwell Githinji Github Stats](https://github-readme-stats.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
-![Maxwell Githinji Github Stats](https://github-readme-stats.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
+  ![Maxwell Githinji Github Stats](https://github-stats-seven-tawny.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
 
 <!--
 **maxwellgithinji/maxwellgithinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
