@@ -25,7 +25,7 @@ I am a software developer and my main stacks include:
  
 ![Maxwell Githinji Github Stats](https://github-stats-seven-tawny.vercel.app/api?username=maxwellgithinji&show_icons=true&theme=radical)
 
-![Maxwell Githinji Github Stats](https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/8dcccd8d-719f-4d0e-8fa9-f7886db15cb1.svg)
+<!--![Maxwell Githinji Github Stats](https://wakatime.com/share/@5af887ac-99ff-4b74-9e6a-34c9b421a9d6/8dcccd8d-719f-4d0e-8fa9-f7886db15cb1.svg)-->
  
 
 <!--
