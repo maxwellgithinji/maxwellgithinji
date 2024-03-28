@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am a software developer and my main stacks include:
+### Main Stacks
 
 [![Top Langs](https://github-stats-seven-tawny.vercel.app/api/top-langs/?username=maxwellgithinji)](https://github.com/anuraghazra/github-readme-stats)
  
